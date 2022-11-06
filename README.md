@@ -1,3 +1,4 @@
+# [www.dark-coder.com](https://www.dark-coder.com/)
 # Nanobar
 Super lighweight, pure JavaScript page load progress bar
 
